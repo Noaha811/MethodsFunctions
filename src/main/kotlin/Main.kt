@@ -3,6 +3,7 @@ import kotlin.math.PI
 
 //Noah Anderson
 
+//variables are held in doubles to allow for precise decimal numbers
 //function that gathers user input and returns area of a circle
 fun areaCircle(): Double{
     print("Enter the radius of your circle: ")
